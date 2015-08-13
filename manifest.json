@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "BT - version 1",
+  "name": "FPS",
   "version": "1",
   "icons": {
-    "128": "icon_128.png"
+    "128": "fingerprint_reader_128.png"
   },
   "permissions": ["storage"],
   "bluetooth": {
