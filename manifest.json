@@ -8,9 +8,8 @@
   "permissions": ["storage"],
   "bluetooth": {
       "uuids": ["1101","112f", "1105", "1106"],
-      "socket": true,
-      "low_energy": true,
-      "peripheral": true
+      "socket": true
+
   },
   "app": {
     "background": {
