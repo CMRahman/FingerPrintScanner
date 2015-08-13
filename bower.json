@@ -1,0 +1,9 @@
+{
+  "name": "todomvc-vanillajs",
+  "version": "0.0.0",
+  "dependencies": {
+    "lodash": "~3.9.3",
+    "bootstrap": "~3.3.5",
+    "amplify": "~1.1.2"
+  }
+}
