@@ -5,12 +5,7 @@ var DEBUG = true; //--set the DEBUG switch
 (function (window) {
 
     var uuid = "00001101-0000-1000-8000-00805F9B34FB";   // Sagem FP Scanner
-    var device;
-    var socketId;
     var address = "00:06:66:68:02:6A";
-    var inScanMode = false;
-    var length;
-
 
 })(window);
 
